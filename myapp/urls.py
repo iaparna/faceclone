@@ -10,3 +10,4 @@ urlpatterns = [
     path('post',views.create_post,name='post'),
     path('update',views.update_profile,name='update')
 ]
+"""end of urls"""

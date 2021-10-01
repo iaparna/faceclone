@@ -80,3 +80,5 @@ def update_profile(request):
         p.location = loc
         p.save()
         return redirect('profile')
+
+"""end of views"""
